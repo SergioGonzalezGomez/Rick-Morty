@@ -1,0 +1,36 @@
+.home {
+    height: 90%;
+    
+  }
+  @media (min-width: 1024px) {
+    .home {
+       height: 100vh;
+    }
+  }
+
+  .home-h1{
+    text-align: center;
+    color: #04ce15;
+    text-decoration: none;
+    text-shadow:-2px 2px 5px rgb(81, 27, 131);
+    margin: 50px 10px;
+}
+.home-p {
+  margin: 10px 10px;
+  font-size: 24px;
+  text-align: center;
+  color: #04ce15;
+  text-decoration: none;
+  text-shadow:-2px 2px 5px rgb(81, 27, 131);
+}
+
+@media (min-width: 1024px) {
+  .home-p {
+     
+     font-size: 24px;
+  text-align: center;
+  color: #04ce15;
+  text-decoration: none;
+  text-shadow:-2px 2px 5px rgb(81, 27, 131);
+  }
+}

@@ -1,0 +1,23 @@
+.c-pagination__button {
+    padding: 5px;
+    background-color: rgb(12,170,202);
+    border-radius: 5px;
+    border: 2px solid #0c0c0c;
+    color: #cbd44b;
+    margin-bottom: 5px;
+    width: 50px;
+    margin: 10px;
+}
+@media (min-width: 1024px) {
+    .c-pagination__button {
+        width: 40px;
+    }
+  }
+span {
+    color: rgb(12,170,202);
+    font-size: 16px;
+    background-color: white;
+    border-radius: 100px;
+    padding: 4px;
+    border: solid 2px #04ce15;
+}

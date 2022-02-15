@@ -1,0 +1,28 @@
+.cdp-figure {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+
+.cdp-img {
+    border-radius: 25px;
+    border: solid rgb(81, 27, 131) 3px;
+    width: 100%;
+    box-shadow:  #04ce15 0px 5px 15px; 
+}
+
+.cdp-h1{
+    text-align: center;
+    color: #04ce15;
+    text-decoration: none;
+    text-shadow:-2px 2px 5px rgb(81, 27, 131);
+}
+
+.cdp-p {
+    font-size: 24px;
+    text-align: center;
+    color: #04ce15;
+    text-decoration: none;
+    text-shadow:-2px 2px 5px rgb(81, 27, 131);
+}

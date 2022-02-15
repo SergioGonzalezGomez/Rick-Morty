@@ -1,0 +1,46 @@
+
+.locations {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    
+}
+
+.image-location {
+    border-radius: 50%;
+    border: solid rgb(81, 27, 131) 3px;
+    max-width: 80%;
+    box-shadow:  #04ce15 0px 5px 15px; 
+}
+.figure-location {
+    width: 100%;
+    
+    text-align: center;
+    
+}
+.title-location {
+    font-size: 24px;
+    text-align: center;
+    color: #04ce15;
+    text-decoration: none;
+    text-shadow:-2px 2px 5px rgb(81, 27, 131);
+    margin: 5px 4px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+@media (min-width: 1024px) {
+    .figure-location {
+        width: 17%;
+        
+      
+    }
+  }
+

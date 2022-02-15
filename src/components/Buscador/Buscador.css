@@ -1,0 +1,22 @@
+
+@media (min-width: 1024px) {
+    .buscador {
+        display: flex;
+    padding-left: 250px;
+
+    }
+}
+.buscador-input {
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    align-self: left;
+   
+}
+.buscador-input:focus {
+    border: solid #00ff15 2px;
+    
+}
+.buscador-input:hover {
+    box-shadow: 0px 5px 15px rgb(81, 27, 131);
+}
